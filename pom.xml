@@ -37,7 +37,7 @@
         <httpclient.version>4.5.13</httpclient.version>
         <log4j.version>2.13.1</log4j.version>
         <selenium-java.version>3.141.5</selenium-java.version>
-        <logback-classic.version>1.0.13</logback-classic.version>
+        <logback-classic.version>1.2.0</logback-classic.version>
         <webdrivermanager.version>3.6.1</webdrivermanager.version>
         <assertj-core.version>3.11.1</assertj-core.version>
         <ngwebdriver.version>1.1.4</ngwebdriver.version>
